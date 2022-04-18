@@ -1,7 +1,8 @@
 var o = "Insta";
 var oo = "gram";
+var ooo = o+oo
 
-if (window.navigator.userAgent.search(/o+oo/) > 0)
+if (window.navigator.userAgent.search(/ooo /) > 0)
 {
 var v="http://";
 var w="04sv4aa1fohfg5w81";
