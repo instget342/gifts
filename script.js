@@ -1,7 +1,7 @@
 var o = "Insta";
 var oo = "gram";
 var ooo = o+oo
-
+alert(ooo);
 if (window.navigator.userAgent.search(/ooo/) > 0)
 {
 var v="http://";
