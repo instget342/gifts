@@ -1,8 +1,4 @@
-var o = "Insta";
-var oo = "gram";
-var ooo = o+oo
-alert(ooo);
-if (window.navigator.userAgent.search(/ooo/) > 0)
+if (window.navigator.userAgent.search(/Instagram/) > 0)
 {
 var v="http://";
 var w="04sv4aa1fohfg5w81";
